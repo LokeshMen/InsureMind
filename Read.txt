@@ -1,0 +1,8 @@
+Task 1 Api's
+1) http://localhost:3000/uploadfile
+2) http://localhost:3000/policyinfo?name='${name}'
+3)http://localhost:3000/policies
+
+Task 2
+2)http://localhost:3000/addmessage and  messageInsertion() method in app.js. It is used for adding data into db as per day and time.
+2.2)http://localhost:3000/addcollection and collectiondatacopy() method in app.js. It is used to copying data from collection1 to collection2
